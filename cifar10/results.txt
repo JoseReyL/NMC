@@ -1,0 +1,4 @@
+CIFAR10
+NengoDL training error: 47.30% 
+NengoDL test error: 48.70%
+Loihi test error: 50.00%
