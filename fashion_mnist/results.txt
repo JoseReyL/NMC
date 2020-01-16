@@ -1,0 +1,4 @@
+Fashion MNIST
+NengoDL training error: 21.50%
+NengoDL test error: 24.10%
+Loihi error: 34%

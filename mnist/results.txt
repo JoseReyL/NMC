@@ -1,0 +1,4 @@
+MNIST
+NengoDL training error: 4.50%
+NengoDL test error: 3.30%
+Loihi error: 4%
